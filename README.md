@@ -1,4 +1,4 @@
-## Hi there 👋
+![Banner](https://capsule-render.vercel.app/render?type=soft&color=00ffcc&height=200&section=header&text=Ana%20Carolina&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20QA%20Intern&descAlignY=62&descSize=20)
 
 <!--
 **CarolinaExosk/CarolinaExosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

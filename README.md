@@ -1,5 +1,7 @@
-![Banner](https://capsule-render.vercel.app/render?type=soft&color=00ffcc&height=200&section=header&text=Ana%20Carolina&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20QA%20Intern&descAlignY=62&descSize=20)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USER&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USER&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 <!--
 **CarolinaExosk/CarolinaExosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

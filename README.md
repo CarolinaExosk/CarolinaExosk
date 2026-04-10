@@ -33,7 +33,9 @@
 <img src="https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=39FF14" alt="Jest"/>
 <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=39FF14" alt="Cypress"/>
 
----
+<p align="center">
+<font color="#39FF14"><b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b></font>
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=39FF14&center=true&vCenter=true&width=230&height=70&repeat=false&lines=System+Analytics+Stream" alt="Welcome Static" />
 
@@ -41,6 +43,9 @@
   <img src="https://stats.pphat.top/stats?username=CarolinaExosk&avatar_mode=radar&theme=vue_dark&data_border_style=frame" alt="Estatísticas do GitHub em formato Radar" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://stats.pphat.top/graph?username=CarolinaExosk&theme=matrix&size=default&show_title=true&show_total_contribution=true&show_background=true&animate=glow" alt="Gráfico de Contribuições Matrix" width="100%" />
+</p>
 
 <table><tr><td valign="top">
 <pre><font color="#39FF14"><b>                                                                                                

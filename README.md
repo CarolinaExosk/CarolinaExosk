@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=39FF14" alt="Cypress"/>
 
 <p align="center">
-<font color="#39FF14"><b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b></font>
+<font color="#39FF14"><b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b></font>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=39FF14&center=true&vCenter=true&width=230&height=70&repeat=false&lines=System+Analytics+Stream" alt="Welcome Static" />

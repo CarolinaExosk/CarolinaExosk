@@ -35,6 +35,13 @@
 
 ---
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=39FF14&center=true&vCenter=true&width=230&height=70&repeat=false&lines=System+Analytics+Stream" alt="Welcome Static" />
+
+<p align="center">
+  <img src="https://stats.pphat.top/stats?username=CarolinaExosk&avatar_mode=radar&theme=vue_dark&data_border_style=frame" alt="Estatísticas do GitHub em formato Radar" width="100%" />
+</p>
+
+
 <table><tr><td valign="top">
 <pre><font color="#39FF14"><b>                                                                                                
                                                          . 
